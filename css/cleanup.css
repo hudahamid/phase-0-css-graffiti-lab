@@ -1,1 +1,24 @@
-/* write your override styles here */
+/* .tag-1, #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
+    display:none !important;
+} */
+.tag-1 {
+    display:none !important;
+}
+#tag-2{
+    display:none !important;
+}
+#tag-3{
+    display:none !important;
+}
+#tag-4{
+    display:none !important;
+}
+#tag-5{
+    display:none !important;
+}
+#tag-6{
+    display:none !important;
+}
+#tag-7 {
+    display:none !important;
+}
